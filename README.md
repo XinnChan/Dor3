@@ -11,4 +11,4 @@ Tembak Kuota Three
 - Masukkan No Telepon : 089xxx (lalu akan mendapatkan kode OTP)
 - Masukkan OTP : xxxxxx (kode OTP dari sms)
 
-NB : JANGAN MARUK!  RESIKO DITANGGUNG PENGGUNA!
+NB : JANGAN MARUK!  RESIKO DITANGGUNG PENGGUNA! 
